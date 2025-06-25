@@ -122,7 +122,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - [ ] Delete individual passwords
 
 ---
-
+**You can Add features But PLZ DON'T RUIN THE CODE !
 **Built with ❤️ using React, Express, and MongoDB**
 
 *Don't forget to star ⭐ this repository if you found it helpful!*
